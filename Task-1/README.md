@@ -1,10 +1,11 @@
 
-# Task 1
+  # Modern Mobile Signup Flow
 
-UI/UX Design Task 1 for CodSoft Internship.
+  This is a code bundle for Modern Mobile Signup Flow. The original project is available at https://www.figma.com/design/KFlAdGnIaDGMVi7OG8HAHS/Modern-Mobile-Signup-Flow.
 
-## Tools Used
-- Figma
+  ## Running the code
 
-## Project Description
-Task 1 project submission.
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
